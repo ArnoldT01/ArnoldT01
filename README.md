@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, My name is Arnold</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, My name is Arnold</h1>
 <h3 align="center">Software Engineer From South Africa</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" alt="coding gif" width="400"/>
 
-- 🌱 I’m currently learning **Artificial intelligence (AI)**
+- I’m currently learning **Artificial intelligence (AI)**
 
-- 👯 I’m looking to collaborate on **AI and Full Stack Desktop Apps Projects**
+- I’m looking to collaborate on **AI and Full Stack Desktop Apps Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +36,7 @@
 
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldt01&show_icons=true&locale=en&layout=compact" alt="arnoldt01" /></p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
