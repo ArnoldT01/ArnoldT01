@@ -41,6 +41,9 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldt01&show_icons=true&locale=en&layout=compact" alt="arnoldt01" /></p>
 
+[![Arnold's github stats](https://bad-apple-github-readme.vercel.app/api?username=arnoldt01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Arnold's current streak](https://streak-stats.demolab.com/?user=arnoldt01&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
