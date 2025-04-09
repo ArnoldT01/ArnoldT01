@@ -7,9 +7,9 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" alt="coding gif" width="400"/>
 
-- I’m currently learning **Artificial intelligence (AI)**
+A Full Stack C# .Net Developer and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Pretoria, South Africa.
 
-- I’m looking to collaborate on **AI and Full Stack Desktop Apps Projects**
+- Open to project collaborations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
