@@ -7,7 +7,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" alt="coding gif" width="400"/>
 
-A Full Stack C# .Net Developer and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Pretoria, South Africa.
+A Full Stack C# .Net Developer and advocate for building responsive, accessible, and inclusive digital products and experiences across web, desktop, and mobile platforms, based in Pretoria, South Africa.
 
 - Open to project collaborations
 
