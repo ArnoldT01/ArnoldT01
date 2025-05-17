@@ -12,25 +12,27 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 - Open to project collaborations
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arnold-mavhunga-441880324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnold-mavhunga-441880324" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhunga-441880324/)
 
-<p>Tech Stack:</p>
+<h4>TECH STACK:</h4>
+
 <p>Programming Languages :</p>
-<p>C# | HTML | CSS | JS | TS | SQL</p>
+<p>$\textsf{C-Sharp | HTML | CSS | JS | TS | SQL}$</p>
 
 <p>Frameworks & libraries :</p>
-<p>Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind | Flowbite | Svelte | .NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow </p>
+<p>$\textsf{Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind | Flowbite | Svelte | .NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow}$</p>
 
 <p>Databases :</p>
-<p>SQLite | MySQL</p>
+<p>$\textsf{SQLite | MySQL}$</p>
 
 <p>Version Control, DevOps & Cloud :</p>
-<p>Google Cloud | Azure | Heroku</p>
+<p>$\textsf{Google Cloud | Azure | Heroku}$</p>
 
 <p>Others :</p>
-<p>Git | Github | Figma | Powershell | Linux </p>
+<p>$\textsf{Git | Github | Figma | Powershell | Linux}$</p>
+
+<h1></h1>
+<br />
 
 <table align="center">
   <tr>
