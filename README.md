@@ -16,8 +16,6 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <a href="https://linkedin.com/in/arnold-mavhunga-441880324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnold-mavhunga-441880324" height="30" width="40" /></a>
 </p>
 
-<!-- NEW CONTENT STARTS HERE -->
-
 <p>Tech Stack:</p>
 <p>Programming Languages :</p>
 <p>C# | HTML | CSS | JS | TS | SQL</p>
@@ -33,8 +31,6 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 
 <p>Others :</p>
 <p>Git | Github | Figma | Powershell | Linux </p>
-
-<!-- NEW CONTENT END HERE -->
 
 <table align="center">
   <tr>
