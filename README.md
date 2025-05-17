@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, My name is Arnold</h1>
-<h3 align="center">.NET Full Stack Engineer From South Africa</h3>
+<h3 align="center">Software Engineer From South Africa</h3>
 
 <p align="center">
      <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=58a6ff&size=12&center=true&lines=Welcome+To+My+Github"></a>
