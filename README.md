@@ -17,19 +17,20 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 
 <h4>TECH STACK:</h4>
 
-<p>Programming Languages :</p>
-<p>$\textsf{C-Sharp | HTML | CSS | JS | TS | SQL}$</p>
+<p><b>Programming Languages :</b></p>
+<p>$\textsf{C# | HTML | CSS | JS | TS | SQL}$</p>
 
-<p>Frameworks & libraries :</p>
-<p>$\textsf{Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind | Flowbite | Svelte | .NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow}$</p>
+<p><b>Frameworks & libraries :</b></p>
+<p>$\textsf{Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind CSS | Flowbite | Svelte | React JS | Redux }$</p>
+<p>$\textsf{.NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow}$</p>
 
-<p>Databases :</p>
+<p><b>Databases :</b></p>
 <p>$\textsf{SQLite | MySQL}$</p>
 
-<p>Version Control, DevOps & Cloud :</p>
+<p><b>Version Control, DevOps & Cloud :</b></p>
 <p>$\textsf{Google Cloud | Azure | Heroku}$</p>
 
-<p>Others :</p>
+<p><b>Others :</b></p>
 <p>$\textsf{Git | Github | Figma | Powershell | Linux}$</p>
 
 <h1></h1>
