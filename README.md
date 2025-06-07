@@ -28,7 +28,7 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <p>$\textsf{SQLite | MySQL}$</p>
 
 <p><b>Version Control, DevOps & Cloud :</b></p>
-<p>$\textsf{Google Cloud | Azure | Heroku}$</p>
+<p>$\textsf{Google Cloud | Azure | Heroku | Appwrite}$</p>
 
 <p><b>Others :</b></p>
 <p>$\textsf{Git | Github | Figma | Powershell | Linux}$</p>
