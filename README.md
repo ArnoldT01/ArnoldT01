@@ -10,6 +10,7 @@
 A Full Stack C# .Net Developer and advocate for building responsive, accessible, and inclusive digital products and experiences across web, desktop, and mobile platforms, based in Pretoria, South Africa.
 
 - Open to project collaborations
+- Open to Volunteering
 
 <h3 align="left">Connect with me:</h3>
 
