@@ -19,7 +19,7 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <h4>TECH STACK:</h4>
 
 <p><b>Programming Languages :</b></p>
-<p>$\textsf{C# | HTML | CSS | JS | TS | SQL}$</p>
+<p>$\textsf{C-Sharp | HTML | CSS | JS | TS | SQL}$</p>
 
 <p><b>Frameworks & libraries :</b></p>
 <p>$\textsf{Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind CSS | Flowbite | Svelte | React JS | Redux }$</p>
