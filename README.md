@@ -16,6 +16,15 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhunga-441880324/)
 
+<br />
+<h4>Featured Projects:</h4>
+
+| Project Name                    | Live Preview                                    |
+| ------------------------------- | ----------------------------------------------- |
+| Lorem Ipsum - Champage website  | https://arnoldt01.github.io/champagnewebsite    |
+| Vibeflix                        | https://arnoldt01.github.io/vibeflix            |
+
+<br />
 <h4>TECH STACK:</h4>
 
 <p><b>Programming Languages :</b></p>
