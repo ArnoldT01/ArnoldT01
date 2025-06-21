@@ -19,10 +19,10 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <br />
 <h4>Featured Projects:</h4>
 
-| Project Name                    | Live Preview                                    |
-| ------------------------------- | ----------------------------------------------- |
-| Lorem Ipsum - Champage website  | https://arnoldt01.github.io/champagnewebsite    |
-| Vibeflix                        | https://arnoldt01.github.io/vibeflix            |
+| Project Name                    | Live Preview                                   |
+| ------------------------------- | ---------------------------------------------- |
+| Lorem Ipsum - Champage website  | https://arnoldmavhunga.xyz/champagnewebsite    |
+| Vibeflix                        | https://arnoldmavhunga.xyz/vibeflix            |
 
 <br />
 <h4>TECH STACK:</h4>
