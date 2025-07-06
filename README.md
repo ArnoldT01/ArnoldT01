@@ -15,6 +15,7 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mavhunga-441880324/)
+[![Portfolio](https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white)](https://arnoldt01.github.io)
 
 <br />
 <h4>Featured Projects:</h4>
