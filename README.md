@@ -24,6 +24,7 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 | ------------------------------- | ---------------------------------------------- |
 | Lorem Ipsum - Champage website  | https://arnoldmavhunga.xyz/champagnewebsite    |
 | Vibeflix                        | https://arnoldmavhunga.xyz/vibeflix            |
+| Weather App                     | https://arnoldmavhunga.xyz/weather-app-website |
 
 <br />
 <h4>TECH STACK:</h4>
@@ -33,7 +34,7 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 
 <p><b>Frameworks & libraries :</b></p>
 <p>$\textsf{Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind CSS | Flowbite | Svelte | React JS | Redux }$</p>
-<p>$\textsf{.NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow}$</p>
+<p>$\textsf{.NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow | React Native}$</p>
 
 <p><b>Databases :</b></p>
 <p>$\textsf{SQLite | MySQL}$</p>
@@ -69,3 +70,4 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
