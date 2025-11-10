@@ -7,7 +7,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" alt="coding gif" width="400"/>
 
-A Full Stack C# .Net Developer and advocate for building responsive, accessible, and inclusive digital products and experiences across web, desktop, and mobile platforms, based in Pretoria, South Africa.
+A Full Stack Software Engineer and advocate for building responsive, accessible, and inclusive digital products and experiences across web, desktop, and mobile platforms, based in Pretoria, South Africa.
 
 - Open to project collaborations
 - Open to Volunteering
@@ -70,4 +70,5 @@ A Full Stack C# .Net Developer and advocate for building responsive, accessible,
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
