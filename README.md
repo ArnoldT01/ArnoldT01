@@ -18,13 +18,17 @@ A Full Stack Software Engineer and advocate for building responsive, accessible,
 [![Portfolio](https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white)](https://arnoldt01.github.io)
 
 <br />
-<h4>Featured Projects:</h4>
+<h4>Recent Projects:</h4>
 
 | Project Name                    | Live Preview                                   |
 | ------------------------------- | ---------------------------------------------- |
 | Lorem Ipsum - Champage website  | https://arnoldmavhunga.xyz/champagnewebsite    |
 | Vibeflix                        | https://arnoldmavhunga.xyz/vibeflix            |
+| Product Website Demo            | https://arnoldmavhunga.xyz/product-site-demo   |
 | Weather App                     | https://arnoldmavhunga.xyz/weather-app-website |
+| Finance App                     |  |
+| Weather App                     |  |
+| Todo App                     |  |
 
 <br />
 <h4>TECH STACK:</h4>
@@ -70,5 +74,6 @@ A Full Stack Software Engineer and advocate for building responsive, accessible,
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 
