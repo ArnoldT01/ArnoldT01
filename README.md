@@ -7,10 +7,10 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" alt="coding gif" width="400"/>
 
-A Full Stack Software Engineer and advocate for building responsive, accessible, and inclusive digital products and experiences across web, desktop, and mobile platforms, based in Pretoria, South Africa.
+Full-stack software engineer based in Pretoria, South Africa. I enjoy building responsive, accessible, and well-tested apps across web, desktop, and mobile. Always curious, always learning, and always trying to make digital experiences a little better.
 
-- Open to project collaborations
-- Open to Volunteering
+- $\textsf{Open to project collaborations}$
+- $\textsf{Open to Volunteering}$
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,39 +26,12 @@ A Full Stack Software Engineer and advocate for building responsive, accessible,
 | Vibeflix                        | https://arnoldmavhunga.xyz/vibeflix            |
 | Product Website Demo            | https://arnoldmavhunga.xyz/product-site-demo   |
 | Weather App                     | https://arnoldmavhunga.xyz/weather-app-website |
-| Finance App                     |  |
-| Weather App                     |  |
-| Todo App                        |  |
-| FNB Hackerthon App              |  |
-| SSG ( static site generator )   |  |
-| Rapid Search                    |  |
-| BitChecker App                  |  |
-| Live Tracking Maui App          |  |
-| Playsphere                      |  |
-| Password generator              |  |
 
-<h4>Useful to have</h4>
-- Free api mock : https://github.com/ArnoldT01/mock-user-api -- example: https://github.com/ArnoldT01/mock-user-api-example
+[View more >>](https://arnoldmavhunga.xyz/index.html#projects)  
 
-<br />
-<br />
-<h4>TECH STACK:</h4>
+<h1></h1>
 
-<p><b>Programming Languages :</b></p>
-<p>$\textsf{C-Sharp | HTML | CSS | JS | TS | SQL}$</p>
-
-<p><b>Frameworks & libraries :</b></p>
-<p>$\textsf{Node.js | Jest | XUnit | Bootstrap | Wordpress | Tailwind CSS | Flowbite | Svelte | React JS | Redux }$</p>
-<p>$\textsf{.NET | Blazor | RazorPages | Playwright | Reqnroll | SpecFlow | React Native}$</p>
-
-<p><b>Databases :</b></p>
-<p>$\textsf{SQLite | MySQL}$</p>
-
-<p><b>Version Control, DevOps & Cloud :</b></p>
-<p>$\textsf{Google Cloud | Azure | Heroku | Appwrite}$</p>
-
-<p><b>Others :</b></p>
-<p>$\textsf{Git | Github | Figma | Powershell | Linux}$</p>
+Tech stack: [view >>](https://arnoldmavhunga.xyz/index.html#tech-stack)  
 
 <h1></h1>
 <br />
