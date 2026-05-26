@@ -20,12 +20,11 @@ Full-stack software engineer based in Pretoria, South Africa. I enjoy building r
 <br />
 <h4>Recent Personal Projects:</h4>
 
-| Project Name                    | Live Preview                                   |
-| ------------------------------- | ---------------------------------------------- |
-| Lorem Ipsum - Champage website  | https://arnoldmavhunga.xyz/champagnewebsite    |
-| Vibeflix                        | https://arnoldmavhunga.xyz/vibeflix            |
-| Product Website Demo            | https://arnoldmavhunga.xyz/product-site-demo   |
-| Weather App                     | https://arnoldmavhunga.xyz/weather-app-website |
+| Project Name                    | Live Preview                                                      |
+| ------------------------------- | ----------------------------------------------------------------- |
+| Container Inspector             | [preview](https://arnoldmavhunga.xyz/container-inspector-website) |
+| Champage website                | [preview](https://arnoldmavhunga.xyz/champagnewebsite)            |
+| Vibeflix - movie website        | [preview](https://arnoldmavhunga.xyz/vibeflix )                   |
 
 [View more >>](https://arnoldmavhunga.xyz/index.html#projects)  
 
