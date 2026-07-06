@@ -24,7 +24,7 @@ Full-stack software engineer based in Pretoria, South Africa. I enjoy building r
 | --- | --- |
 | Container Inspector | [preview](https://arnoldt01.github.io/container-inspector-website) |
 | Champage website | [preview](https://arnoldt01.github.io/champagnewebsite)            |
-| Vibeflix | [preview](https://arnoldt01.github.io/vibeflix )                   |
+| Vibeflix | [preview](https://arnoldt01.github.io/vibeflix/ )                   |
 
 [View more >>](https://arnoldt01.github.io/index.html#projects)  
 
